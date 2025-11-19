@@ -1,4 +1,4 @@
-package com.eadl.gestion_produit.services;
+package com.example.tpgestionproduit.services;
 import com.eadl.gestion_produit.dto.ProductDTO;
 import com.eadl.gestion_produit.entities.Product;
 import com.eadl.gestion_produit.exception.ResourceNotFoundException;

@@ -1,4 +1,4 @@
-package com.eadl.gestion_produit.entities;
+package com.example.tpgestionproduit.entities;
 
 import jakarta.persistence.*;
 import jakarta.validation.constraints.*;

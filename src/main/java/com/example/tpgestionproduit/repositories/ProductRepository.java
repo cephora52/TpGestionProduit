@@ -1,4 +1,4 @@
-package com.eadl.gestion_produit.repositories;
+package com.example.tpgestionproduit.repositories;
 
 import com.eadl.gestion_produit.entities.Product;
 import org.springframework.data.jpa.repository.JpaRepository;
